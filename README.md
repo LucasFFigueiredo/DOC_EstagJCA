@@ -16,4 +16,4 @@ O **SpaceDesk E-bus** é um Sistema Web de Gestão de Espaços focado em organiz
 A cada grande atualização na documentação, criação de diagramas (MER/DER) ou protótipos, a versão dos arquivos e deste repositório será incrementada (ex: v1.0 para v1.1).
 
 ---
-*Lucas Figueiredo - Estagiário | Grupo JCA 2026*
+*Grupo 1 - Estagio | Grupo JCA 2026*
